@@ -1,0 +1,18 @@
+[Unit]
+Description=Full Stack Spring Boot Backend
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/opt/fullstack-app
+ExecStart=/usr/bin/java -jar /opt/fullstack-app/fullstack-app.jar
+EnvironmentFile=/opt/fullstack-app/.env
+SuccessExitStatus=143
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=fullstack-app
+
+[Install]
+WantedBy=multi-user.target
