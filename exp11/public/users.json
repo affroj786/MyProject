@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "role": "Frontend Developer",
+    "department": "Engineering",
+    "avatar": "https://i.pravatar.cc/80?img=1",
+    "location": "New York",
+    "joined": "2021-03-15"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "role": "Backend Developer",
+    "department": "Engineering",
+    "avatar": "https://i.pravatar.cc/80?img=2",
+    "location": "San Francisco",
+    "joined": "2020-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Carol White",
+    "email": "carol@example.com",
+    "role": "UI/UX Designer",
+    "department": "Design",
+    "avatar": "https://i.pravatar.cc/80?img=3",
+    "location": "Austin",
+    "joined": "2022-01-10"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "email": "david@example.com",
+    "role": "DevOps Engineer",
+    "department": "Infrastructure",
+    "avatar": "https://i.pravatar.cc/80?img=4",
+    "location": "Chicago",
+    "joined": "2019-11-05"
+  },
+  {
+    "id": 5,
+    "name": "Eva Martinez",
+    "email": "eva@example.com",
+    "role": "Product Manager",
+    "department": "Product",
+    "avatar": "https://i.pravatar.cc/80?img=5",
+    "location": "Boston",
+    "joined": "2021-09-18"
+  },
+  {
+    "id": 6,
+    "name": "Frank Lee",
+    "email": "frank@example.com",
+    "role": "Data Analyst",
+    "department": "Analytics",
+    "avatar": "https://i.pravatar.cc/80?img=6",
+    "location": "Seattle",
+    "joined": "2020-04-30"
+  }
+]
